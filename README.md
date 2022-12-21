@@ -1,3 +1,8 @@
+### Bu proje angular ile TicTocToe(X0X) web uygulamasıdır.
+## This project is TicTocToe(X0X) web application with angular.
+
+
+
 # MyProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
