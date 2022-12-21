@@ -1,6 +1,6 @@
 ### Bu proje angular ile TicTocToe(X0X) web uygulamasıdır.
 ## This project is TicTocToe(X0X) web application with angular.
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/103859993/208904221-33ce5b5f-b729-4e92-a07f-6dd62da6bd80.gif)
 
 
 # MyProject
